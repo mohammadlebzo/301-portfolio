@@ -1,11 +1,11 @@
 {
     "basic_info": {
       "name": "Mohammad Lebzo",
-      "titles": [ "Software Developer" ],
+      "titles": [ "{ Sofware Engineer / Web Developer / Game Developer }" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mohammadlebzo",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "lebzoProfile.jpg"
     },
     "skills": {
       "icons": [
