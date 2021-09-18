@@ -33,8 +33,8 @@ class Experience extends Component {
             className="vertical-timeline-element--work"
             date={work.years}
             iconStyle={{
-              background: "#AE944F",
-              color: "#fff",
+              background: "#F2B138",
+              color: "#003F63",
               textAlign: "center",
             }}
             // icon={<i className="fab fa-angular experience-icon"></i>}
@@ -46,13 +46,13 @@ class Experience extends Component {
 
             <h3
               className="vertical-timeline-element-title"
-              style={{ textAlign: "left" }}
+              style={{ textAlign: "left", color: '#353D40' }}
             >
               {work.title}
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
-              style={{ textAlign: "left" }}
+              style={{ textAlign: "left", color: '#353D40' }}
             >
               {work.company}
             </h4>
@@ -66,7 +66,7 @@ class Experience extends Component {
       <section id="resume" className="pb-5">
         <div className="col-md-12 mx-auto">
           <div className="col-md-12">
-            <h1 className="section-title" style={{ color: "black" }}>
+            <h1 className="section-title" style={{ color: "#353D40" }}>
               <span className="text-black" style={{ textAlign: "center" }}>
                 {sectionName}
               </span>
@@ -78,8 +78,8 @@ class Experience extends Component {
             {work}
             <VerticalTimelineElement
               iconStyle={{
-                background: "#AE944F",
-                color: "#fff",
+                background: "#F2B138",
+                color: "#003F63",
                 textAlign: "center",
               }}
               icon={

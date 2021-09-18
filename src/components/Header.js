@@ -59,7 +59,7 @@ class Header extends Component {
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="#baaa80"
+              offColor="#F2B138"
               onColor="#353535"
               className="react-switch mx-auto"
               width={90}
@@ -103,7 +103,7 @@ class Header extends Component {
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br/>
-              <h1 className="mb-0">
+              <h1 className="mb-0" >
                 {name}
               </h1>
               <div className="title-container">
