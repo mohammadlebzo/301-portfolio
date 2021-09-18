@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "3D Object Viewer",
+        "startDate": "2021",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,42 +35,50 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Ask The Lads",
+        "startDate": "2021",
+        "description": "It's a reviews website",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/projects/AskTheLads1.PNG",
+          "images/portfolio/projects/AskTheLads2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://404inc.github.io/ask-the-lads/index.html",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain colored",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-codepen-plain colored",
+            "name": "Codepen"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "css3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Project Code: V Remake",
+        "startDate": "2020",
+        "description": "It's a personal attempt to remake Resident Evil Code Veronica. The build shown in the link is an old build the project is still a work in progress to this day.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/projects/Project_Code_V_Remake.PNG",
+          "images/portfolio/projects/PCV_img2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://youtu.be/DONtXI98j_c",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-unity-original colored",
+            "name": "Unity"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": "Blender"
           },
           {
             "class": "devicon-csharp-plain",
